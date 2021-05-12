@@ -1,0 +1,28 @@
+Uri: https://datil.co/
+File Name: C:\Downloaded Web Sites\datil.co\index.html
+Content Type: text/html
+
+Uri: https://datil.co/planes
+File Name: C:\Downloaded Web Sites\datil.co\planes.html
+Content Type: text/html
+
+Uri: https://datil.co/producto
+File Name: C:\Downloaded Web Sites\datil.co\producto.html
+Content Type: text/html
+
+Uri: https://datil.co/security
+File Name: C:\Downloaded Web Sites\datil.co\security.html
+Content Type: text/html
+
+Uri: https://datil.co/terms
+File Name: C:\Downloaded Web Sites\datil.co\terms.html
+Content Type: text/html
+
+Uri: https://datil.co/credits
+File Name: C:\Downloaded Web Sites\datil.co\credits.html
+Content Type: text/html
+
+Uri: https://datil.co/terminos
+File Name: C:\Downloaded Web Sites\datil.co\terminos.html
+Content Type: text/html
+
